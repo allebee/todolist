@@ -10,8 +10,10 @@ The project was created to learn about CRUD operations and other concepts in Fas
    ```shell
    git clone https://github.com/allebee/todolist.git
 2. Install the dependencies 
+   ```shell
    pip install -r requirements.txt
 3. Run the application:
+   ```shell
    uvicorn app:app --reload
 
 Endpoints
